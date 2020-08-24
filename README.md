@@ -13,9 +13,6 @@
   - The links of the main navigation should be displayed next to each other on medium size screens
   - The navigation links should appear in uppercase
   - Set a maximum width for the main container so the content is preventet from running too wide on big screens
-### Scaling
-- Verwende width:100vw und box-sizing:border-box für Elemente, die die ganze Fensterbreite ausfüllen sollen und dieses Verhalten noch nicht durch display:block haben.
-- Verwende rem für Container-Größen und Text-Größen
 ### Code quality
 - Don't use hr tags. Lines have to be created using border
 - Don't use br tags to allign Elements vertically or to create margins. You can use ```display: block``` for vertical alignment and ```margin``` or ```padding``` for margins for example.
