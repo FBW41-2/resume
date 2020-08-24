@@ -8,20 +8,20 @@
   ```html
   <meta name="viewport" content="width=device-width, initial-scale=1">
   ```
-- Link für Email, der E-Mail Anwendung öffnet
-- Link für Telefon, der Telefon-Anwendung öffnet
-- Link zum Lebenslauf(PDF), der einen Download auslöst
-- Links zu Social Media Profilen
-  - Haben Icons der Dienste
-  - Sollen in einem neuen Tab öffnen
+- The email link needs to open the email application
+- The phone link needs to open the phone app when klicked on a phone
+- The PDF download link should start a download
+- Social media links should:
+  - have icons of the services
+  - open in a new tab
   
-- Foto, das im Kreis dargestellt wird, mit border-radius
-- Navigation zu den Abschnitten mit Hash-Links
-- Bilder im Portfolio sollen verlinkt sein
+- Your photo should be displayed in a circle using border radius
+- The menu should be linked to the several sections of the page
+- Images in the portfolio need to be linked
 
 ## Code quality requirements
 - No block tags inside of inline tags
 - Links of the main menu need to have padding
-- Margins between 
-- Korrekte html-Grundstruktur (html, head, body)
-- Keine Viewport-Elemente im head
+- Margins between text and screed edges as well as between text and element edges
+- Correct HTML base structure
+- No visual elements in the head
