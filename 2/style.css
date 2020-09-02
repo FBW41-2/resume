@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+   
+    
+
+         
+    
+}
+div > p {
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url(https://wallpapersite.com/images/pages/pic_w/18358.jpg);
+    font-size: 16px;
+}
+
+/* Header */
+header {
+    padding: 30px;
+    text-align: center;
+}
+h1 {
+    font-size: 2.5rem;
+}
+header img {
+    width: 200px;
+    border-radius: 50%;
+}
+header p {
+    color: gray;
+    font-size: 1.5rem;
+}
+section article {
+    background-image: url(http://www.cvhldgs.com/wp-content/uploads/2017/03/bg.jpg);
+}
+
+/* Navigation menu */
+nav a {
+    display: block;
+    text-decoration: none;
+    color:red;
+    background-color: lightgray;
+    margin: 1px 0;
+    background-image: url(http://www.cvhldgs.com/wp-content/uploads/2017/03/bg.jpg);
+} 
+nav div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}
+nav p {
+    font-size: 1.5rem;
+}
+
+/* Main page */
+h2 {
+    padding: 20px 0 10px 0;
+    font-size: 2rem;
+    color: gray;
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+}
+article {
+    padding: 30px 30px;
+    
+    
+
+    
+}
+
+
+/* Resume */
+#resume div * {
+    font-size: 1.3rem;
+}
+#resume a {
+    color: darkturquoise;
+
+}
+#resume p {
+    color: gray;
+    margin-bottom: 20px;
+}
+#cv-download {
+    margin-top: 50px;
+}
+#cv-download a {
+    text-decoration: none;
+    color: darkturquoise;
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+article a{
+   color: aqua;
+}
+
+#
+
+/* Skills */
+#skills div {
+    margin-bottom: 20px;
+}
+#skills div p {
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+    /* Status bar */
+.status-bar {
+    height: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.progress {
+    background-color:red;
+    height: 10px;
+    border-radius: 4px;
+}
+
+/* Footer */
+footer {
+    padding-bottom: 30px;
+}
+#contact div {
+    margin-bottom: 20px;
+}
+#contact div a {
+    text-decoration: none;
+    color: gray;
+    font-size: 1.3rem;
+}
+#contact i {
+    color: darkturquoise;
+    font-size: 2.5rem;
+    vertical-align: -20%;
+    margin-right: 10px;
+}
