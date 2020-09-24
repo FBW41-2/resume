@@ -3,6 +3,7 @@
 ### Scss
 - Put all the CSS of the site into a SCSS file
 - Use SCSS nesting instead of children selectors
+- Define colors in variables and replace the original color values with those variables
 ### Images
 - For images only the width should be set not the height, so they maintain their original aspect ratio
 ### Responsivity
